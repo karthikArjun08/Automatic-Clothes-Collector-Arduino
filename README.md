@@ -70,6 +70,4 @@ Karthik Arjun
 Embedded Systems & IoT Enthusiast
 Arduino | ESP32 | Automation
 
-⭐ If you like this project
 
-Give it a Star ⭐ and feel free to fork & improve!
